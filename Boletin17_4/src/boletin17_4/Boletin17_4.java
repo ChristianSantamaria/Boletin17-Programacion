@@ -19,7 +19,7 @@ public class Boletin17_4 {
         Metodos p4 = new Metodos();
         
         p4.Metodos();
-        p4.calcularDNI(35611858);
+        p4.calcularDNI(35658462);
         
     }
     
